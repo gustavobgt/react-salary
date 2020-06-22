@@ -18,5 +18,5 @@ It has a responsive web design making the web page render well on a variety of d
 
 ## 🚀 Technologies
 
-- <a href="https://github.com/Dogfalo/materialize" targe="_blank">ReactJS </a>
-- <a href="https://github.com/Dogfalo/materialize" targe="_blank">Materialize </a>
+- <a href="https://github.com/Dogfalo/materialize" target="_blank">ReactJS </a>
+- <a href="https://github.com/Dogfalo/materialize" target="_blank">Materialize </a>
