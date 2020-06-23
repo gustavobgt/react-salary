@@ -1,7 +1,7 @@
 # react-salary
 
 ## 📖 Description
-React Salary aims to demonstrate to the users how much they really earn according to the Brazil's CLT rule.
+React Salary aims to demonstrate to the users how much they really earn according to the Brazilian 2020 CLT rule.
 
 It has a responsive web design making the web page render well on a variety of devices 📱.
 
